@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to our journal App</string>
+    <string name="password">Password</string>
+    <string name="sign_in">LogIn</string>
+    <string name="sign_up">Create Account</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="email">Email</string>
+    <string name="username">UserName</string>
+    <string name="sign_upn">SIGN UP</string>
+    <string name="post_title">Post Title</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="save">Save</string>
+    <string name="description">description</string>
+</resources>

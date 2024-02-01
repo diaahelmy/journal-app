@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start_end_edittext">25dp</dimen>
+    <dimen name="margin_top_b_txt_bot">50dp</dimen>
+    <dimen name="top_b_edit_edit">10dp</dimen>
+    <dimen name="top_bot_edit">30dp</dimen>
+</resources>
